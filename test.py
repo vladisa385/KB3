@@ -128,7 +128,7 @@ def vzaimindex(textwithcows):
 
             forhelp=0
             x=str(round(itog,4))
-
+            print("Kirill-krasava")
             try:
 
                # print(tabl[str(x)])
